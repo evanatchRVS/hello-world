@@ -48,9 +48,9 @@ Want to edit the site you just published? Let’s practice commits by introducin
 
 Let’s start with this template:
 
-```
-<p>Hello World! I’m [username]. This is my website!</p>
-```
+
+<p>Hello World!</p>
+
 
 To add your introduction, copy our template and click the edit pencil icon at the top right hand corner of the `index.html` file.
 
